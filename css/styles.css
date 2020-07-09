@@ -1,0 +1,148 @@
+.row-content {
+    margin:40px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.stats {
+    background-color: #fff;
+}
+
+.stats h3,
+h6 {
+    color: #017585;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    padding: 20px;
+}
+
+.stats .circle h4 {
+    color: #017585;
+    font-size: 60px;
+    font-weight: bolder;
+    padding: 20px;
+    text-align: center;
+}
+
+.stats .circle p {
+    color: #017585;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.stats .circle {
+    height: 300px;
+    display: inline-block;
+    padding: 60px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    border: 3px solid;
+    border-color: #017585;
+    border-radius: 50%;
+}
+.splitscreen1 {
+    background-color: #017585;
+    padding: 30px;
+}
+
+.splitscreen1 .columnimg1 {
+    height: 400px;
+    padding-left: 60px;
+}
+
+.splitscreen1 h2 {
+    color: #fff;
+    font-size: 50px;
+    padding-top: 40px;
+    text-align: left;
+    font-weight: bolder;
+}
+
+.splitscreen1 h4 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.splitscreen1 p {
+    color: #017585;
+    font-size: 15px;
+    border: 1px solid;
+    background-color: #fff;
+    padding: 8px;
+    width: 100px;
+    border-radius: 4px;
+}
+
+.splitscreen1 p:hover {
+    color: #004d4d;
+}
+
+.back {
+    opacity: 0.1;
+}
+
+.splitscreen2 {
+    background-image: url("images/back.jpg");
+    padding: 30px;
+}
+
+.splitscreen2 .columnimg1 {
+    height: 250px;
+    padding-left: 60px;
+}
+
+.splitscreen2 h2 {
+    margin: 20px 0;
+    color: #017585;
+    font-size: 50px;
+    padding-top: 40px;
+    text-align: left;
+    font-weight: bolder;
+}
+
+.splitscreen2 h4 {
+    margin: 20px 0;
+    color: #017585;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.splitscreen2 p {
+    color: #fff;
+    font-size: 15px;
+    border: 1px solid;
+    background-color: #017585;
+    padding: 8px;
+    width: 100px;
+    border-radius: 4px;
+}
+
+.splitscreen2 p:hover {
+    color: #f0f5f5;
+}
+
+.footer{
+    background-color: #017585;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+body {
+    padding: 50px 0px;
+    z-index: 0;
+}
+
+
+.one {
+    padding: 10px;
+    margin: 100px 0px;
+}
+
+
